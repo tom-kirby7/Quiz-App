@@ -26,7 +26,8 @@ def ask_questions(score, qascore, filtered_questions, user_questions):
 
         while True:
             user_answer = input("Your answer (type the option number, text, or 'hint'): ").strip()
-
+            if user_answer.lower() == "exit":
+                exit_quiz()
             if user_answer.lower() == "hint":
                 if hint_count < hint_limit:
                     print(f"Hint: {question['Hint']}")
@@ -66,6 +67,7 @@ def check_exit_condition(user_input):
     if user_input.lower() == 'exit':
         print("Exiting the quiz. Goodbye!")
         exit()
+        
 
 def average_score(score, qascore):
     if qascore == 0:
