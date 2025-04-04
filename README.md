@@ -17,11 +17,8 @@ FightFanatic is an interactive trivia game designed for fans of combat sports, i
 
 ### 📥 Download & Run
 1. **Download** the quiz from [this link](https://github.com/tom-kirby7/Quiz-App).  
-2. **Extract** the files if necessary.  
-3. **Run** the quiz using the command:
+2. **Clone** Clone the repository.  
    ```sh
-   python quiz.py
-   ```
 
 ## 🎯 How to Play
 1. 🚀 Launch the quiz.  
