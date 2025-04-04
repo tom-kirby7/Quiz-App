@@ -51,7 +51,21 @@ def ask_questions(score, qascore, filtered_questions, user_questions):
     return score, qascore
 
 def welcome_to_the_quiz():
-    print("Welcome to Tom Kirby's quiz!!!")
+    print("Welcome to FightFanatic!!!")
+    print("This is a quiz game where you can test your knowledge about Muay Thai, UFC, and Boxing.")
+    print("You can choose a topic and answer questions related to it.")
+    print("You can also use hints to help you answer the questions.")
+    print("Let's get started!")
+    print("Please select a topic to begin the quiz.")
+    print("You can type 'exit' at any time to quit the quiz.")
+def exit_quiz():
+    print("Thank you for playing the quiz. Goodbye!")
+    exit()
+
+def check_exit_condition(user_input):
+    if user_input.lower() == 'exit':
+        print("Exiting the quiz. Goodbye!")
+        exit()
 
 def average_score(score, qascore):
     if qascore == 0:
