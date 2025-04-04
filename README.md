@@ -1,4 +1,4 @@
-[Dall-E](https://github.com/tom-kirby7/Quiz-App/blob/main/DALL%C2%B7E%202025-04-04%2012.36.20%20-%20A%20dynamic%20logo%20representing%20a%20Software%20Engineering%20quiz%20focused%20on%20Muay%20Thai%2C%20UFC%2C%20and%20Boxing.%20The%20logo%20features%20a%20combination%20of%20a%20boxing%20glove%2C%20Muay.webp)
+![Dynamic Logo](https://github.com/tom-kirby7/Quiz-App/blob/main/DALL%C2%B7E%202025-04-04%2012.36.20%20-%20A%20dynamic%20logo%20representing%20a%20Software%20Engineering%20quiz%20focused%20on%20Muay%20Thai%2C%20UFC%2C%20and%20Boxing.%20The%20logo%20features%20a%20combination%20of%20a%20boxing%20glove%2C%20Muay.webp)
 # 🥊 FightFanatic
 
 
